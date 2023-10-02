@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![gyancodes's GitHub | Languages Over Time](https://stats.quine.sh/gyancodes/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gyancodes)
+
 
 [![gyancodes's GitHub | Stats](https://stats.quine.sh/gyancodes/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gyancodes)
+
+
+[![gyancodes's GitHub | Dependencies](https://stats.quine.sh/gyancodes/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gyancodes)
