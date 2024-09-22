@@ -30,7 +30,7 @@ I'm a passionate **Computer Science Graduate** with a keen interest in building 
 
 ### 🚀 Current Projects
 - **Devtoolz:** A productivity platform for developers, offering tools and resources for seamless development.
-- **PlotPulse:** A React and TailwindCSS library for building interactive charts and dashboards, with plans for web analytics.
+- **PlotPulse** *(Private):* Currently working on building this React and TailwindCSS library for creating interactive charts and dashboards, with plans for web analytics. I'm also learning about library development as part of this project.
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/gyancodes)
