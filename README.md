@@ -25,6 +25,7 @@ I'm a passionate **Computer Science Graduate** with a keen interest in building 
 - **Golang:** Expanding my backend development skills.
 - Get hands-on experience with **Data Structures** and their implementation.
 - Explore **Cloud Technologies** for scalable and distributed systems.
+- **Library Development:** Gaining insights into best practices for building reusable components and libraries.
 - Contribute more actively to **Open Source Projects** and community.
 
 
