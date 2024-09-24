@@ -13,24 +13,13 @@ I'm a passionate **Computer Science Graduate** with a keen interest in building 
    
 
 ### 🌱 I'm Currently Learning/Exploring
-- **Spring Boot:** Diving deeper into Spring to build scalable and secure backend systems.
-- **Data Structures and Algorithms:** Enhancing my problem-solving skills and understanding of fundamental CS concepts.
-- **Docker & Kubernetes:** Exploring containerization and orchestration for building and deploying microservices.
-- **System Design:** Understanding the principles of designing large-scale distributed systems.
-- **Advanced Backend Concepts:** Learning about topics like microservices, Redis, Kafka, GRPC, Websockets etc.
-
+-  Expand my backend development skills and dive deeper into Spring/Go to build scalable and secure backend systems.
+-  Enhancing my problem-solving skills and understanding of Data Structures and their implementation.
+-  Exploring containerization and orchestration for building and deploying microservices.
+-  Understanding the principles of designing large-scale distributed systems.
   
-### 🎯 Learning Goals
-- Master **Spring Framework** to build production-level applications.
-- **Golang:** Expanding my backend development skills.
-- Get hands-on experience with **Data Structures** and their implementation.
-- Explore **Cloud Technologies** for scalable and distributed systems.
-- **Library Development:** Gaining insights into best practices for building reusable components and libraries.
-- Contribute more actively to **Open Source Projects** and community.
 
-
-### 🚀 Current Projects
-- **Devtoolz:** A productivity platform for developers, offering tools and resources for seamless development.
+### 🚀 Building
 - **PlotPulse** *(Private):* Currently working on building this React and TailwindCSS library for creating interactive charts and dashboards, with plans for web analytics. I'm also learning about library development as part of this project.
 
 ### 🌐 Connect with me
