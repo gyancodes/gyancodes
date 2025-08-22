@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey 👋 I'm Gyan  
 
-<!--
-**gyancodes/gyancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things mostly tinkering with backend systems, databases, security, and the cloud, learning how to build things that scale.   
+Mostly exploring startups, apps, and ideas sometimes they work, sometimes they don’t, but I always learn.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### What I’m into  
+- Experimenting with AI, fintech, and travel apps  
+- Writing small tools for fun + learning  
+
+##### Currently  
+- Working on personal projects like **ThoughtBox** (a minimal notes app)  
+- Exploring app ideas around **travel** and **AI assistants**  
+
+
+#### Reach me  
+- Personal site: [gyancodes.vercel.app](https://gyancodes.vercel.app)  
+- Twitter: [@gyancodes](https://twitter.com/gyancodes)
+- Open to work → Feel free to reach out!  
+
+
