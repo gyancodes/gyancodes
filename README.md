@@ -1,16 +1,9 @@
 # Hey 👋 I'm Gyan  
 
-I like building things mostly tinkering with backend systems, databases, security, and the cloud, learning how to build things that scale.   
-Mostly exploring startups, apps, and ideas sometimes they work, sometimes they don’t, but I always learn.  
+I work on backend systems, databases, cloud, and security, with a focus on building scalable solutions. Currently exploring Spring Boot, React Native, and DevOps, with hands-on experience in security and bug hunt
 
+I often explore startups, apps, and ideas; some work, some don’t, but each one teaches me something new
 
-##### What I’m into  
-- Experimenting with AI, fintech, and travel apps  
-- Writing small tools for fun + learning  
-
-##### Currently  
-- Working on personal projects like **ThoughtBox** (a minimal notes app)  
-- Exploring app ideas around **travel** and **AI assistants**  
 
 
 #### Reach me  
